@@ -1,2 +1,2 @@
 # multi-pr-template
-1. Test multiple PR template
+2. Test multiple PR template
